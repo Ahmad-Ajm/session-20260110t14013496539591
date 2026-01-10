@@ -1,1 +1,1 @@
-Unchanged structure, updated FEAT-GUI-CORE status to Done in clarify/plan/specify/tasks columns)
+Unchanged structure, updated FEAT-GUI-CORE status to Done in clarify/plan/specify/tasks columns
