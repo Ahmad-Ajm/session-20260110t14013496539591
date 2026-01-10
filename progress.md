@@ -36,6 +36,18 @@
 
 ---
 
+## ➕ جدول متابعة الواجهة (مطلوب)
+
+| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
+|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
+| NotStarted | NotStarted | NotStarted | NotStarted | File Browser | FEAT-FILE-BROWSER | 0% | NotStarted | InProgress (~30%) |
+| NotStarted | NotStarted | NotStarted | NotStarted | FFmpeg Execution | FEAT-FFMPEG-EXEC | 0% | InProgress (~40%) | InProgress (~30%) |
+| NotStarted | NotStarted | NotStarted | NotStarted | Presets | FEAT-PRESETS | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | History | FEAT-HISTORY | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Notifications | FEAT-NOTIFY | 0% | NotStarted | NotStarted |
+
+---
+
 ## 📊 ملخص التقدم
 - الميزات الحالية: 5
 - SpecKit: 100% مكتمل
@@ -45,4 +57,4 @@
 
 ## 🔄 آخر تحديث
 - التاريخ: 2026-01-10
-- التغييرات: مواءمة ملف التقدم مع ميزات تطبيق ffmpeg GUI
+- التغييرات: تحديث progress.md اعتماداً على conversation-summary.md فقط
