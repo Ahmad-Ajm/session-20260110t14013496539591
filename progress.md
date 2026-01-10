@@ -16,6 +16,20 @@
 
 ---
 
+## 📋 جدول متابعة إضافي (مطلوب)
+
+| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
+|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
+| NotStarted | NotStarted | NotStarted | NotStarted | واجهة التطبيق الأساسية | FEAT-GUI-CORE | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | إدارة الملفات | FEAT-FILE-MGR | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | عمليات ffmpeg الجاهزة | FEAT-FFMPEG-OPS | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | تخصيص أوامر ffmpeg | FEAT-CMD-CUST | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | سجل العمليات | FEAT-HISTORY | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | الإشعارات والتنبيهات | FEAT-NOTIFY | 0% | InProgress (~75%) |  |
+| NotStarted | NotStarted | NotStarted | NotStarted | إعداد ffmpeg | FEAT-FFMPEG-SET | 0% | InProgress (~75%) |  |
+
+---
+
 ## 📊 ملخص التقدم
 
 - عدد الميزات: 7
@@ -29,5 +43,4 @@
 ## 🔄 آخر تحديث
 - التاريخ: 2026-01-10
 - التغييرات:
-  - إعادة توليد ملف خريطة الميزات بناءً على conversation-summary.md
-  - مزامنة progress.md مع الميزات الحالية
+  - إعادة توليد features-map.md و progress.md اعتمادًا على conversation-summary.md فقط
