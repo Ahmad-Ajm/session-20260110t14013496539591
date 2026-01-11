@@ -4,8 +4,8 @@
 
 | clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
 |---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
-| Done | Done | Done | Done | File Browser | FEAT-FILE-BROWSER | 100% | InProgress (~75%) | InProgress (~30%) |
-| Done | Done | Done | Done | FFmpeg Execution | FEAT-FFMPEG-EXEC | 100% | InProgress (~75%) | InProgress (~30%) |
-| Done | Done | Done | Done | Presets | FEAT-PRESETS | 100% | NotStarted | NotStarted |
-| Done | Done | Done | Done | History | FEAT-HISTORY | 100% | NotStarted | NotStarted |
-| Done | Done | Done | Done | Notifications | FEAT-NOTIFY | 100% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | File Browser | FEAT-FILE-BROWSER | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | FFmpeg Execution | FEAT-FFMPEG-EXEC | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Presets | FEAT-PRESETS | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | History | FEAT-HISTORY | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Notifications | FEAT-NOTIFY | 0% | NotStarted | NotStarted |
